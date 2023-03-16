@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((400, 600))
 background = pygame.image.load('background.jpg')
 
 #Title and icon
-pygame.display.set_caption("Moon stroy")
+pygame.display.set_caption("Moon distory")
 icon = pygame.image.load('spaceship.png')
 pygame.display.set_icon(icon)
 
